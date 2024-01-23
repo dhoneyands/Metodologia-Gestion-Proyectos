@@ -9,3 +9,6 @@ class miClase{
 
 // Clase A
 const ClaseA = new miClase ("Clase A foo","Clase A bar");
+
+//Clase C
+const ClaseC = new miClase ("Clase C foo", "Clase C bar");
